@@ -5,6 +5,7 @@ using System.Text;
 namespace ConsoleApp7
 {
     //blablaa
+    //ispravilaa
     class Class1
     {
     }
